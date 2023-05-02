@@ -1,0 +1,15 @@
+Z:\programacion 2023\tp3_Tiquetera\obj\Debug\net6.0\tp3_Tiquetera.csproj.AssemblyReference.cache
+Z:\programacion 2023\tp3_Tiquetera\obj\Debug\net6.0\tp3_Tiquetera.GeneratedMSBuildEditorConfig.editorconfig
+Z:\programacion 2023\tp3_Tiquetera\obj\Debug\net6.0\tp3_Tiquetera.AssemblyInfoInputs.cache
+Z:\programacion 2023\tp3_Tiquetera\obj\Debug\net6.0\tp3_Tiquetera.AssemblyInfo.cs
+Z:\programacion 2023\tp3_Tiquetera\obj\Debug\net6.0\tp3_Tiquetera.csproj.CoreCompileInputs.cache
+Z:\programacion 2023\tp3_Tiquetera\bin\Debug\net6.0\tp3_Tiquetera.exe
+Z:\programacion 2023\tp3_Tiquetera\bin\Debug\net6.0\tp3_Tiquetera.deps.json
+Z:\programacion 2023\tp3_Tiquetera\bin\Debug\net6.0\tp3_Tiquetera.runtimeconfig.json
+Z:\programacion 2023\tp3_Tiquetera\bin\Debug\net6.0\tp3_Tiquetera.dll
+Z:\programacion 2023\tp3_Tiquetera\bin\Debug\net6.0\tp3_Tiquetera.pdb
+Z:\programacion 2023\tp3_Tiquetera\obj\Debug\net6.0\tp3_Tiquetera.dll
+Z:\programacion 2023\tp3_Tiquetera\obj\Debug\net6.0\refint\tp3_Tiquetera.dll
+Z:\programacion 2023\tp3_Tiquetera\obj\Debug\net6.0\tp3_Tiquetera.pdb
+Z:\programacion 2023\tp3_Tiquetera\obj\Debug\net6.0\tp3_Tiquetera.genruntimeconfig.cache
+Z:\programacion 2023\tp3_Tiquetera\obj\Debug\net6.0\ref\tp3_Tiquetera.dll
